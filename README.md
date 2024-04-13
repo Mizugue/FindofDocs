@@ -17,7 +17,6 @@
 
 <p>possibles arguments:</p>
   -h, --help    show this help message and exit </br>
-  -u U          Digite o alvo </br>
   -a            Vulnerabilidades de listagem de diretórios </br>
   -b            Arquivos de configuração expostos </br>
   -c            Arquivos de banco de dados expostos </br>
