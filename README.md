@@ -13,6 +13,36 @@
 
 <p>required arguments:</p>
   <p>-u, --Target</p>
+
+
+<p>possibles arguments:</p>
+  -h, --help    show this help message and exit
+  -u U          Digite o alvo
+  -a            Vulnerabilidades de listagem de diretórios
+  -b            Arquivos de configuração expostos
+  -c            Arquivos de banco de dados expostos
+  -d            Encontrar relacionados WordPress
+  -e            Arquivos de log expostos
+  -f            Backup e arquivos antigos
+  -g            Páginas de login
+  -v            Erros de SQL
+  -i            Documentos expostos publicamente
+  -j            phpinfo()
+  -k            Encontrar backdoors
+  -l            Arquivos de instalação/configuração
+  -m            Open redirects
+  -n            Apache STRUTS RCE
+  -o            Encontre entradas no Pastebin
+  -q            Arquivos confidenciais .htaccess
+  -r            Encontrar subdomínios
+  -s            Encontrar sub-subdomínios
+  -t            Encontrar relacionados WordPress #2
+  -y            Encontre o arquivo .SWF (Google)
+  -devil DEVIL  Wordlist com diversas docs!
+  -all          Todas as opcoes
+  
+
+
 --------------------------------------------------------------------------------------------------------
 
 
