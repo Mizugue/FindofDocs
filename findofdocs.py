@@ -6,7 +6,6 @@ import pyautogui
 import colorama
 
 
-
 def argumentos(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('-u', help='Digite o alvo', required=True)
