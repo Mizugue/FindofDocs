@@ -17,29 +17,29 @@
 
 <p>possibles arguments:</p>
   -h, --help    show this help message and exit </br>
-  -u U          Digite o alvo
-  -a            Vulnerabilidades de listagem de diretórios
-  -b            Arquivos de configuração expostos
-  -c            Arquivos de banco de dados expostos
-  -d            Encontrar relacionados WordPress
-  -e            Arquivos de log expostos
-  -f            Backup e arquivos antigos
-  -g            Páginas de login
-  -v            Erros de SQL
-  -i            Documentos expostos publicamente
-  -j            phpinfo()
-  -k            Encontrar backdoors
-  -l            Arquivos de instalação/configuração
-  -m            Open redirects
-  -n            Apache STRUTS RCE
-  -o            Encontre entradas no Pastebin
-  -q            Arquivos confidenciais .htaccess
-  -r            Encontrar subdomínios
-  -s            Encontrar sub-subdomínios
-  -t            Encontrar relacionados WordPress #2
-  -y            Encontre o arquivo .SWF (Google)
-  -devil DEVIL  Wordlist com diversas docs!
-  -all          Todas as opcoes
+  -u U          Digite o alvo </br>
+  -a            Vulnerabilidades de listagem de diretórios </br>
+  -b            Arquivos de configuração expostos </br>
+  -c            Arquivos de banco de dados expostos </br>
+  -d            Encontrar relacionados WordPress </br>
+  -e            Arquivos de log expostos </br>
+  -f            Backup e arquivos antigos </br>
+  -g            Páginas de login </br>
+  -v            Erros de SQL </br>
+  -i            Documentos expostos publicamente </br>
+  -j            phpinfo() </br>
+  -k            Encontrar backdoors </br>
+  -l            Arquivos de instalação/configuração </br>
+  -m            Open redirects </br>
+  -n            Apache STRUTS RCE </br>
+  -o            Encontre entradas no Pastebin </br>
+  -q            Arquivos confidenciais .htaccess </br>
+  -r            Encontrar subdomínios </br>
+  -s            Encontrar sub-subdomínios </br>
+  -t            Encontrar relacionados WordPress #2 </br>
+  -y            Encontre o arquivo .SWF (Google) </br>
+  -devil DEVIL  Wordlist com diversas docs! </br>
+  -all          Todas as opcoes </br>
   
 
 
