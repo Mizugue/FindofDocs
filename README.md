@@ -10,4 +10,6 @@
 
 <p>required arguments:</p>
   <p>-u, --Target</p>
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ps: (agr.devil) --> Deixei uma excelente wordlist! Caso não queira usa-la, basta criar a sua.
 
